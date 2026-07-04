@@ -16,7 +16,6 @@
 
 #Technologies#
 
-
 -Python
 
 
