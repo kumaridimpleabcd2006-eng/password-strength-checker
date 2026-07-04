@@ -1,4 +1,4 @@
-*Password Strengh Checker* :- Abeginner friendly cybersecurity project built with pythun.
+*Password Strength Checker* :- Abeginner friendly cybersecurity project built with pythun.
 
 
 #Features#
