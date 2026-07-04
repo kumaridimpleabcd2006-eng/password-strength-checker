@@ -11,6 +11,9 @@
 -Check digits
 -check special character
 -Tells whether the password is strong or weak 
+
+
+
 #Technologies#
 -Python
 
