@@ -10,9 +10,10 @@
 -Checj lowwercase letter
 -Check digits
 -check special character
--Tells whether the password is strong or weak 
+-Tells whether the password is a  strong or weak 
 
 2.*login System* :- A simple login system built with python and file hamdling.
+
 #Features#
 -Register User
 -Login user
