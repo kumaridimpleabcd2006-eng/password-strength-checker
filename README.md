@@ -1,4 +1,4 @@
-1.*Password Strength Checker* :- Abeginner friendly cybersecurity project built with pythun.
+1.*Password Strength Checker* :- A beginner friendly cybersecurity project built with python.
 
 
 #Features#
@@ -10,7 +10,7 @@
 -Checj lowwercase letter
 -Check digits
 -check special character
--Tells whether the password is a  strong or weak 
+-Tells whether the password is a  stronge or weak 
 
 2.*login System* :- A simple login system built with python and file hamdling.
 
